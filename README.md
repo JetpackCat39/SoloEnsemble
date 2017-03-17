@@ -1,9 +1,12 @@
 # SoloEnsemble
 Westview Gold Solo and Ensemble planning
 
-**Requirements**
+
+**Requirements:**
 
 Student names and accompanists shouldn't overlap
+
+Solo and ensemble doesn't overlap
 
 Same last name doesn't overlap
 
