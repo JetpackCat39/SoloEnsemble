@@ -1,2 +1,12 @@
+#Student
 First Name
 Last Name
+Accompanist
+Period
+Instrument (WW, brass, perc, strings)
+WE?
+freshman?
+
+#Ensemble
+Array of member names
+Array of instruments
